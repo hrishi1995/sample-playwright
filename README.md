@@ -29,5 +29,4 @@ The last test is intentionally failing. It documents a real defect: posting the 
 ## Notes
 
 - The drag-and-drop test simulates the drop with a synthetic `DataTransfer`, since Playwright cannot perform native OS drag-and-drop.
-- `tests/example.spec.ts` and `tests/search-and-sidebar.spec.ts` target playwright.dev and are not part of `npm test`.
 - Reports and traces are written to `test-results/` on failure.
