@@ -7,7 +7,7 @@ Playwright (TypeScript) automation for https://the-internet.herokuapp.com/upload
 Requires Node.js 18+. Clone, install, and run the tests in one command:
 
 ```sh
-git clone <repo-url> sample-playwright && cd sample-playwright && npm install && npm test
+git clone https://github.com/hrishi1995/sample-playwright.git && cd sample-playwright && npm install && npm test
 ```
 
 If the repo is already cloned, run `npm install && npm test` from the project root.
